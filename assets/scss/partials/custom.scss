@@ -1,0 +1,15 @@
+.app{
+	min-height: 100vh;
+}
+
+.uk-dark{
+	.nav{
+		background-color : $darkNav;
+	}
+}
+
+.uk-light{
+	.nav{
+		background-color : $plain;
+	}
+}

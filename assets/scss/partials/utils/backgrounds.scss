@@ -1,0 +1,17 @@
+.uk-background-white{
+	background-color: $plain;
+}
+
+
+
+.uk-dark{
+	.background{
+		background-color: $darkTheme;
+	}
+}
+
+.uk-light{
+	.background{
+		background-color: $lightTheme;
+	}
+}
